@@ -1,0 +1,22 @@
+{
+  "name": "cicd_example",
+  "version": "1.0.0",
+  "description": "des",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/politician_aggreculture/cicd_example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/politician_aggreculture/cicd_example/issues"
+  },
+  "homepage": "https://gitlab.com/politician_aggreculture/cicd_example#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
